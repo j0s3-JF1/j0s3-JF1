@@ -5,7 +5,6 @@
 <p align="left">
 <a href="https://instagram.com/jose_jf1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jose_jf1" height="30" width="40" /></a>
 </p>
-<p align="left">
 <a href="https://discord.gg/JoseJF1#6996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JoseJF1#6996" height="30" width="40" /></a>
 </p>
 
